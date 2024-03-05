@@ -19,8 +19,7 @@ The Intelligent Vehicle Congestion Control System is a project based on the Ardu
 - PWM wheel control
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
-2. Upload the Arduino sketch to your Arduino board using the Arduino IDE or any compatible tool.
+1. Upload the Arduino sketch to your Arduino board using the Arduino IDE or any compatible tool.
 
 ## Usage
 1. Connect the infrared sensors and motor control pins according to the provided schematic.
